@@ -4,7 +4,6 @@
 * {
     margin: 0;
     padding: 0;
-
 }
 
 .menu {
@@ -192,7 +191,7 @@
     }
     .profile img{
         border: 2px white solid;
-        width: 15%;
+        width: 35%;
     }
     
     .burger{
