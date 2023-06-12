@@ -177,7 +177,7 @@
         flex-direction: column;
     }
     .menu{
-        height: 342px;
+        height: 348px;
         flex-direction: column;
         transition: all 0.5s ease-out;
     }
