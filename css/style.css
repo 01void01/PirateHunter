@@ -77,7 +77,7 @@
     color: black;
     font-family: 'Roboto Slab', serif;
     font-size: 3vh;
-    text-shadow: 1px 0 10px #5f7e46;
+    font-weight: bold;
     text-align: center;
 }
 
@@ -121,6 +121,7 @@
     border-radius: 5%;
     background: none;
     color: black;
+    font-weight: bold;
     font-size: 18px;
     font-family: 'Roboto Slab', serif;
     cursor: pointer;
@@ -136,7 +137,7 @@
 }
 
 .big-text a{
-    text-shadow: 1px 0 10px white;
+    font-weight: bold;
     text-decoration: none;
     color: #75aca7
 }
