@@ -16,7 +16,13 @@
 }
 
 .background{
-    background: rgba(0,0,0,0.7) url('../img/bg-min.jpg');
+    background: #5f7e46);
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.bg{
+    background: rgba(0, 0, 0, 0.7) url('../img/bg-min.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -135,7 +141,7 @@
 
 .foot{
     display: flex;
-    background: rgba(0,0,0,0.7) url('../img/bg-min.jpg');
+    background: #5f7e46;
     background-size: cover;
     background-blend-mode: darken;
     justify-content: center;
